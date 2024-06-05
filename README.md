@@ -141,7 +141,7 @@ Dynamic programming techniques are used to solve problems by breaking them down 
 
 ## Contributing 
 
-🌟🚀 **We love your inputs!** We want to make contributing to this project as easy and transparent as possible, whether it's:
+🌟🚀 **I love your inputs!** I want to make contributing to this project as easy and transparent as possible, whether it's:
 
 - Reporting a bug 🐛
 - Discussing the current state of the code 📝
