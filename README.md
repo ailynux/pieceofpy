@@ -1,5 +1,7 @@
 <h1 align="center">🚀 Python Data Structures and Algorithms 🚀</h1>
 
+## *THIS REPO IS Raspberry Pi's and Python working together in harmony <3*
+
 <p align="center">
   <img src="https://giffiles.alphacoders.com/360/36000.gif" alt="Animated" width="500px" />
 </p>
