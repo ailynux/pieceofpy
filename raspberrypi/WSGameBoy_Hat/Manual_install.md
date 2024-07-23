@@ -31,18 +31,7 @@ Please focus on the direction of the battery. If you connect the battery in reve
 ### Using RetroPie
 
 #### Method 1: Use Pre-built Image
-1. Download the appropriate Retropie image:
-   - [Retropie Image for Pi4](#)
-   - [Retropie Image for Pi2/3](#)
-   - [Retropie Image for Pi 1/Zero](#)
-2. Unzip the ZIP file and write the image to the TF card.
-3. Insert the TF card into your Raspberry Pi, and toggle the Battery switch to ON.
-   - If the battery is low, Raspberry Pi cannot start up. In this case, connect a 5V/2A power supply to the Power interface of Game HAT for charging. The charge indicator will flicker when charging. You can play during charging but note that Raspberry Pi will reboot automatically if you disconnect the power supply.
-   - If the battery is full, Raspberry Pi will start up normally.
-4. After entering OS, choose emulators using the joystick. For example, choose the Nintendo emulator and press "A" to confirm.
-5. Select a game and press "A" to enter. After the cutscene, press the "A" or "Start" key to start the game.
-6. To exit from the current game, press "Start" and "Select" at the same time.
-7. Adjust the volume and brightness of the LCD using the 4 buttons on the right side of Game HAT. Press Menu to open the OSD menu, Up/Left or Down/Right to choose options, and Menu to confirm. Press Exit to leave the OSD menu.
+1. Download the appropriate Retropie image: from the waveshare wiki.
 
 #### Method 2: Install Driver Manually
 1. Download the Retropie image from the Retropie website according to your Raspberry Pi type.
