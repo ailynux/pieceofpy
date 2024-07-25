@@ -7,7 +7,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/ailynux/pieceofpy)
 ![GitHub license](https://img.shields.io/github/license/ailynux/pieceofpy)
 
-## Game HAT for Raspberry Pi - Make Your Own Game Console
+## Game HAT for Raspberry Pi - Make Your Own Retro Portable Games
 
 ### Note
 Please focus on the direction of the battery. If you connect the battery in reverse, the charging circuit will be damaged. Pay attention to this when mounting the battery.
@@ -133,9 +133,6 @@ Advanced Options -> A1 Expand Filesystem -> Enter -> Finish
 
 **Q: What is the charging voltage and current of Game HAT?**  
 **A:** Use a 5V/2A power adapter. If the voltage exceeds 7V, it will damage the charging circuit.
-
-**Q: I can't play NEO-GEO games on my system, what should I do?**  
-**A:** Place `neogeo.zip` in the "bios/" and "roms/neogeo/" directories without unzipping.
 
 **Q: What is the default password of Recalbox?**  
 **A:** Username: `reboot`, password: `recalboxroot`.
