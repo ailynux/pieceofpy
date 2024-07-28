@@ -1,6 +1,6 @@
 # Raspberry Pi Game HAT
 
-![Game HAT](Game-HAT-3.jpg) ---> i will put a pic of mine :) 
+![Game HAT](Game-HAT-3.jpg) ---> i will put a pic of mine :) almost finshed --- adding 7/28
 
 ![GitHub stars](https://img.shields.io/github/stars/ailynux/pieceofpy?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ailynux/pieceofpy?style=social)
