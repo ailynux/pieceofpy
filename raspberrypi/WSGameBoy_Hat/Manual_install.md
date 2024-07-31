@@ -5,7 +5,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/ailynux/pieceofpy?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ailynux/pieceofpy?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/ailynux/pieceofpy)
-![GitHub license](https://img.shields.io/github/license/ailynux/pieceofpy)
 
 ## Game HAT for Raspberry Pi - Make Your Own Retro Portable Games
 
